@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[bbc.com](https://www.bbc.com/news)",
+    "[techcouver.com](https://techcouver.com)",
+    "[mit.edu](https://news.mit.edu)",
+    "[memeburn.com](https://memeburn.com)",
+    "[digitaltrends.com](https://www.digitaltrends.com)",
+    "[free.ai](https://free.ai/code/css/)"
+  ],
+  "design_plan": "rng=1337; hero_math:max1120px,2-3lines; AIDA=pass; bento_density=grid-auto-flow:dense; labels_swept=yes; button_contrast=AA+",
+  "generated_at": "2026-07-03T04:47:33.017843+00:00",
+  "headline": "Super vs Orchids \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, source\u2011backed comparison for people evaluating Super against Orchids. Orchids explores experimental, message\u2011centric and developer\u2011driven agent ideas. Super is built for durable computer\u2011use workflows, with agents that actually operate a computer and reuse a computer-use cache so repeated work gets cheaper and more reliable over time."
+}
